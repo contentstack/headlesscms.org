@@ -1,3 +1,6 @@
+> [!WARNING]
+  **This repo is deprecated and no longer maintained. Security updates are not supported. We recommend avoiding its use.**
+
 # headlesscms.org
 
 [headlesscms.org](http://www.headlesscms.org), a leaderboard of top open-source static site content management systems.
